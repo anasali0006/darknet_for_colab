@@ -10,7 +10,7 @@ To enable GPU backend for your notebook: __Runtime->Change runtime type->Hardwar
 ```
 # run these command line from notebook cell
 
-!git clone https://github.com/quangnhat185/darknet_for_colab.git
+!git clone https://github.com/anasali0006/darknet_for_colab.git
 %cd darknet_for_colab
 !make
 !chmod +x ./darknet
