@@ -1,6 +1,7 @@
 # Custom Darknet for training YOLOv4 on Google Colab with custom dataset
 
-
+Updated the repository from its original condition to a new version which supports latest 'nvcc' drivers. 
+Specifically modified it to be used in the training of Single Class Detector YOLOv4.
 
 ## Setup darknet environment in Colab Notebook
 
