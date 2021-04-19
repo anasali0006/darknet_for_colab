@@ -2,4 +2,4 @@ classes = 1
 train = data/train.txt
 valid = data/test.txt
 names = data/classes.names
-backup = backup
+backup = /content/mydrive/Weapon_Detection/Yolov4_backup
